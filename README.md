@@ -1,2 +1,1 @@
-# Tamil-Transcript-summarization
-Transcript Summarization of youtube videos with tamil translation, keyword search and summary length features.
+#Stress Detection in IT Professionals using Image Processing and Machine Learning Techniques
